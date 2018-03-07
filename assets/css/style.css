@@ -1,10 +1,12 @@
-#logo {
+.container {
 
-    background-color: blue;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-left: 10%;
+}
+
+
+.btn .btn-primary {
+
     color: white;
-
 }
 
     
@@ -23,8 +25,8 @@
 
 #headshot {
     float: left;
-    height: 200px;
-    width: 150px;
+    height: 120px;
+    width: 100px;
     margin-right: 5px;
 }
 
@@ -41,6 +43,6 @@ p {
 }
 
 .sidebar {
-
-    border: 2px solid black;
+    
+   
 } 
